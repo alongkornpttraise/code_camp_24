@@ -8,6 +8,9 @@ This is my homework status : https://docs.google.com/spreadsheets/d/1a0dbwuaGjSR
 
 Hope you kind to understand my code 
 
+Version
+#1 >>  All html , js 1-25
+
 
 Alongkorn Sangngam (Fluke) 👨🤖☀️
 Software engineer (IoT and software team)
