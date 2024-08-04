@@ -1,4 +1,4 @@
-# code_camp_24
+# Full stack course
 
  code_camp_24 💻⌨️
 
@@ -13,7 +13,6 @@ This is my homework status : https://docs.google.com/spreadsheets/d/1a0dbwuaGjSR
 
 
 
-=================================================================================================================================================
 Alongkorn Sangngam (Fluke) 👨🤖☀️
 Software engineer (IoT and software team)
 
