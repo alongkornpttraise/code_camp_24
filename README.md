@@ -12,9 +12,10 @@ This is my homework status : https://docs.google.com/spreadsheets/d/1a0dbwuaGjSR
 
 
 
-
-Alongkorn Sangngam (Fluke) 👨🤖☀️
-Software engineer (IoT and software team)
+# My Bio
+    Alongkorn Sangngam (Fluke) 👨🤖☀️
+    Software engineer (IoT and software team)
+    PTT RAISE Company Limited
 
 
 
