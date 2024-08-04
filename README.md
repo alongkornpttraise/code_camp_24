@@ -8,7 +8,7 @@ This is my homework status : https://docs.google.com/spreadsheets/d/1a0dbwuaGjSR
 
 
 # Version
-      # 1 (Week1-Aug 24)>>  All html , js 1-25
+      # 1 (Week1-Aug 24) |  All html , js 1-25
 
 
 
