@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+        .profile-card {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            position: relative;
+            width: 200px;
+        }
+        .profile-card img {
+            width: 50%;
+            border-radius: 50%;
+        }
+        .profile-card .name {
+            margin-top: 10px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .profile-card .notification {
+            background: red;
+            color: #fff;
+            border-radius: 50%;
+            padding: 5px 10px;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+        .profile-card .delete {
+            background: none;
+            border: none;
+            color: #aaa;
+            font-size: 20px;
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-card">
+        <button class="delete">×</button>
+        <div class="notification">9</div>
+        <img src= "C:\codecamp_2024\lab\css4" alt="test">
+        <div class="name">A. Rudiger</div>
+    </div>
+</body>
+</html>
