@@ -10,6 +10,7 @@ This is my homework status : https://docs.google.com/spreadsheets/d/1a0dbwuaGjSR
 # Push Version
       # 1 (Week1-Aug 24) |  All html , js 1-25 homework
       # 2 (Week2-Aug 24) |  js 26-36 homework
+      # 3 (Week3-Aug 24) |  js 37-80 homework
 
 
 
